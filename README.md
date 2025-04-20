@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**hpatel0816/hpatel0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harsh 👋
 
-Here are some ideas to get you started:
+_Computer Engineering @ University of Waterloo | AI/ML • Backend Systems • Infra_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**About Me**
+
+- 🔭 Passionate about building robust AI/ML systems that bridge research and real-world products  
+- 🧠 Currently diving deep into applied machine learning, backend architecture, and scalable infra  
+- 💼 Completed 4 internships across AI, backend, DevOps, and full-stack roles  
+
+**Let’s Connect**
+
+- [Email](mailto:hmpatel@uwaterloo.ca)  
+- [LinkedIn](https://www.linkedin.com/in/hpatel0816/)  
+
