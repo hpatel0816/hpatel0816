@@ -9,7 +9,7 @@ _Computer Engineering @ University of Waterloo | AI/ML • Backend Systems • I
 
 - 🔭 Passionate about building robust AI/ML systems that bridge research and real-world products  
 - 🧠 Currently diving deep into applied machine learning, backend architecture, and scalable infra  
-- 💼 Completed 4 internships across AI, backend, DevOps, and full-stack roles  
+- 💼 1+ years of internship experience across AI, backend, DevOps, and full-stack roles  
 
 **Let’s Connect**
 
